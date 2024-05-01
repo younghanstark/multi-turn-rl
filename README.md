@@ -73,4 +73,4 @@ To try some negotiation against the trained agent, run following:
 	 --debug
 ```
 
-The `eval.py` script also contains options for the automatic evaluations done in the paper, which can be done by changing the `buyer` argument to different values such as `theirs_utility`, or `theirs_supervised`. Check out the script for more details.
+The `eval.py` script also contains options for the automatic evaluations done in the paper, which can be done by changing the `buyer` argument to different values such as `theirs_utility`, or `theirs_supervised`. Check out the script for more details. You can also use `summary.ipynb` in the same directory to calculate some statistics from the raw results.
